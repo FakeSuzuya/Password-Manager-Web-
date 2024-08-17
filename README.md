@@ -31,4 +31,4 @@ Resources
 
 Feel free to contribute or provide feedback as we continue development. For any questions or suggestions, reach out to me on Discord: justsuzuya.
 
-    :woman_detective: Stay tuned for more updates!
+    🕵️‍♂️ Stay tuned for more updates!
