@@ -1,0 +1,8 @@
+{
+    "jwtSecret": "",
+    "mysqlHost": "",
+    "mysqlUser": "",
+    "mysqlPassword": "",
+    "mysqlDatabase": ""
+  }
+  
