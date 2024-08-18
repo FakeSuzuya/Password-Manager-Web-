@@ -9,4 +9,4 @@ CREATE TABLE users (
 
 -- Insertion du compte administrateur
 INSERT INTO users (name, email, password)
-VALUES ('admin', 'admin@example.com', 'admin'); -- Remplace 'admin_password' par un mot de passe sécurisé
+VALUES ('admin', 'admin@example.com', 'admin'); -- Remplace 'admin_password' par un mot de passe sécurisé, et envisage l'utilisation de hashage pour les mots de passe
